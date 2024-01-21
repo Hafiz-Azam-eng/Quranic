@@ -6,9 +6,9 @@
   "scripts": {
     "start": "node server",
     "server": "nodemon server",
-    "Final Updated Frontend": "npm start --prefix Final Updated Frontend",
-    "dev": "concurrently \"npm run server\" \"npm run Final Updated Frontend\"",
-    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix Final Updated Frontend && npm run build --prefix Final Updated Frontend"
+    "final-updated-frontend": "npm start --prefix final-updated-frontend",
+    "dev": "concurrently \"npm run server\" \"npm run final-updated-frontend\"",
+    "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix final-updated-frontend && npm run build --prefix final-updated-frontend"
   },
   "author": "Brad Traversy",
   "license": "MIT",
@@ -16,7 +16,7 @@
     "axios": "^0.21.4",
     "bcrypt": "^5.1.0",
     "bcryptjs": "^2.4.3",
-    "Final Updated Frontend": "file:Final Updated Frontend",
+    "final-updated-frontend": "file:final-updated-frontend",
     "config": "^3.3.10",
     "cors": "^2.8.5",
     "crypto": "^1.0.1",

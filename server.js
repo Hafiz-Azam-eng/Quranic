@@ -60,8 +60,8 @@ app.use('/api/notification',require('./routes/api/notification'));
 
 
 app.get('/', (req, res) => {
-     app.use(express.static(path.resolve(__dirname,"Final Updated Frontend","build")));
-     res.sendFile(path.resolve(__dirname, 'Final Updated Frontend', 'build', 'index.html'));
+     app.use(express.static(path.resolve(__dirname,"final-updated-frontend","build")));
+     res.sendFile(path.resolve(__dirname, 'final-updated-frontend', 'build', 'index.html'));
   });
 
 
