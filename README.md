@@ -23,14 +23,18 @@ Install QLMS-project with npm
 Our Quran Learning Management System revolutionizes Quranic education through a dynamic MERN stack, empowering users with interactive modules, secure authentication, and a seamless learning experience.
 
 
-## Screenshots## Tech Stack
+## Screenshots
+
+![MergedImages](https://github.com/Hafiz-Azam-eng/Quranic/assets/135889237/14d20671-c527-4533-94b4-006e3bb4d07f)
+
+## Tech Stack
 
 **Client:** 
-   React     ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), 
-   Redux     ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white), 
-   TailwindCSS     ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+       ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white), 
+      ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white), 
+      ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 
 **Server:** 
-   Node.js     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white), 
-   Express     ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white), 
-   MongoDB     ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+     ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white), 
+       ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white), 
+        ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
